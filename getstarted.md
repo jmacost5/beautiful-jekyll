@@ -27,17 +27,17 @@ Here is a 40-second video showing how to get started, with the specific steps be
 
 <br>
 
-<div class="gs-section-01">
+<section class= "gs-section-01">
 
-<body>
+     <div class="gs-section-01">
 
-<h3> 1. Fork the Beautiful Jekyll repository </h3>
+          <h3> 1. Fork the Beautiful Jekyll repository </h3>
 
-<p> Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub. </p>
+               <p> Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub. </p>
 
-</body>
+     </div>
 
-</div>
+</section>
 
 ### 2. Rename the repository to `yourusername.github.io`
 
@@ -59,13 +59,13 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 
 
 <style>
+     
+.gs-section-01 section {
+     background-color: #feb300;
+}
 
 .gs-section-01 h3 { 
      color: #331132; }
-
-.gs-section-01 body {
-     background-color: #feb300;
-}
 
 .gs-section-01 p {
      font-size: 30px;
