@@ -60,6 +60,7 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 
 .gs-button {
   background-color: #ff5e6c;
+  border-radius: 12px;
   border: none;
   color: white;
   padding: 15px 32px;
