@@ -17,7 +17,11 @@ To learn how you can use **Beautiful Jekyll** to create your website in minutes,
 
 ---
 
-## Overview of steps required
+<div class= "gs-section-01-bg" markdown="1">
+     
+<br>
+
+## Overview of steps required: 
 
 There are only three simple steps, so using **Beautiful Jekyll** is *literally* as easy as 1-2-3 :)    
 
@@ -25,32 +29,38 @@ Here is a 40-second video showing how to get started, with the specific steps be
 
 <img src="../img/install-steps.gif" style="width:100%;" alt="Installation steps" />
 
----
+<br>
 
-<div class= "gs-section-01-bg" markdown="1">
+</div>
+
+---
      
- <br>
-     
+<br>
+
 <div class="gs-section-01" markdown="1">
 
 ### 1. Fork the Beautiful Jekyll repository
 
 Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
   
-  </div>
-  
-  <br>
+<br>
 
 </div>
 ---
+
+<div class= "gs-section-01-bg" markdown="1">
+
+<br>
 
 ### 2. Rename the repository to `yourusername.github.io`
 
 This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be available at http://yourusername.github.io (sometimes it takes a few minutes).
 
----
+<br>
 
-<div class= "gs-section-01-bg">
+</div>
+
+---
  
 <br>
 
@@ -61,8 +71,6 @@ Edit the `_config.yml` file to change all the settings to reflect your site.  Th
 You can now visit your shiny new website, which will be seeded with several sample blog posts and a couple other pages.
 
 <br>
-
-</div>
 
 ---
 
