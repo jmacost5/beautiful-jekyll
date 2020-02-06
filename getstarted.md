@@ -96,26 +96,28 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 }
 
 .gs-section-01 h3 { 
-     color: #331132; }
+     color: #331132; 
+}
 
 .gs-section-01 p {
      font-size: 30px;
 }
 
 .gs-section-02 h3 {
-     font-family: cursive
+     font-family: cursive;
 }
  
 .gs-section-02 p {
-     color: #ff5e6c
+     color: #ff5e6c;
  }
  
  .gs-section-03 h3 {
-     color: #ff5e6c
+     color: #ff5e6c;
+     font-family: serif;
 }
  
 .gs-section-03 p {
-     font-weight: bold
+     font-weight: bold;
  }
 
 .gs-button {
