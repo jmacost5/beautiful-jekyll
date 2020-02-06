@@ -53,13 +53,13 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 
 
 <style>
-     
-.gs-section-01 body {
-     background-color: #feb300;
-}
 
 .gs-section-01 h3 { 
      color: #331132; }
+
+.gs-section-01 body {
+     background-color: #feb300;
+}
 
 .gs-section-01 p {
      font-size: 30px;
