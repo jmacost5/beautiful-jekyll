@@ -75,6 +75,8 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 }
 
 .gs-button:hover{
+     text-decoration: none;
+     color: white;
      background: #ffaaab;
 }
 
