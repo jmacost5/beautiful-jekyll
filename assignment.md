@@ -4,6 +4,8 @@ title: "Lab 03: Canvas Submission"
 subtitle: "Courtney Stowers | February 6, 2020"
 ---
 
+<br>
+
 <div class="format" markdown="1">
 
 ### Github Repository Link:
