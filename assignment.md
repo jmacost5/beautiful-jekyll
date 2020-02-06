@@ -6,7 +6,7 @@ subtitle: "Courtney Stowers | February 6, 2020"
 
 <br>
 
-<div class="format" markdown="1">
+<div class="formatting" markdown="1">
 
 <h3 markdown="1"> Github Repository Link: </h3>
 
@@ -24,9 +24,8 @@ Here is the link to [my website](https://castower.github.io/): https://castower.
 
 <style>
 
-.format h3{
+.formatting h3{
 color: #331132;
-
 }
 
 .link { color: #ff5e6c; 
