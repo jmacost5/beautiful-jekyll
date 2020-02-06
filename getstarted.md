@@ -92,7 +92,7 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 <style>
      
 .gs-section-bg {
-     background-color: #fff9e6;
+     background-color: #ffe6e6;
 }
 
 .gs-section-01 h3 { 
