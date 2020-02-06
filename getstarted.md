@@ -13,7 +13,7 @@ To learn how you can use **Beautiful Jekyll** to create your website in minutes,
 <a class="gs-button" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
 
-
+<br>
 
 ## Overview of steps required
 
@@ -47,22 +47,22 @@ You can now visit your shiny new website, which will be seeded with several samp
 
 See how easy that is? I wasn't lying - it really can be done in two minutes.
 
-<div class= "get-started-wrap">
+<center> <div class= "get-started-wrap">
 <a class="gs-button" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
-</div>
+</div> </center>
 
 
 <style>
+     
+.gs-section-01 body {
+     background-color: #feb300;
+}
 
 .gs-section-01 h3 { 
      color: #331132; }
 
 .gs-section-01 p {
      font-size: 30px;
-}
-
-.gs-section-01 div {
-     background-color: #feb300;
 }
 
 .gs-button {
