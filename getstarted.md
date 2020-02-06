@@ -27,9 +27,9 @@ Here is a 40-second video showing how to get started, with the specific steps be
 
 <div class="gs-section-01">
 
-### 1. Fork the Beautiful Jekyll repository
+<h3> 1. Fork the Beautiful Jekyll repository </h3>
 
-Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
+<p> Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub. </p>
 
 </div>
 
