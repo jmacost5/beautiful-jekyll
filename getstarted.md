@@ -72,4 +72,8 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
   cursor: pointer;
 }
 
+.gs-button:hover{
+     background: #ffaaab;
+}
+
 </style>
