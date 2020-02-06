@@ -27,15 +27,15 @@ Here is a 40-second video showing how to get started, with the specific steps be
 
 ---
 
-<div class= "gs-section-01-bg">
+<div class= "gs-section-01-bg" markdown="1">
      
  <br>
      
-<div class="gs-section-01">
+<div class="gs-section-01" markdown="1">
 
-  <h3> 1. Fork the Beautiful Jekyll repository </h3>
+### 1. Fork the Beautiful Jekyll repository
 
-  <p> Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub. </p>
+Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
   
   </div>
   
