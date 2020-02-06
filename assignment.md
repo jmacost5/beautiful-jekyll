@@ -24,7 +24,7 @@ Here is the link to [my website](https://castower.github.io/): https://castower.
 
 <style>
 
-. h3 {
+.h3 {
 color: #331132;
 
 }
