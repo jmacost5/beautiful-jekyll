@@ -9,7 +9,9 @@ bigimg: /img/start.jpg
 
 To learn how you can use **Beautiful Jekyll** to create your website in minutes, go to the [Beautiful Jekyll GitHub page](https://github.com/daattali/beautiful-jekyll#readme).
 
-<a href="https://github.com/daattali/beautiful-jekyll#readme" class="gs-button">Link Button</a>
+<div class= "get-it-started">
+<a class="gs-button" href="https://github.com/daattali/beautiful-jekyll#readme">Link Button</a>
+</div>
 
  <div class="get-started-wrap">
   <a class="btn btn-success btn-lg get-started-btn gs-button" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
