@@ -17,8 +17,6 @@ To learn how you can use **Beautiful Jekyll** to create your website in minutes,
 
 ---
 
-<div class= "gs-section-01-bg">
-
 ## Overview of steps required
 
 There are only three simple steps, so using **Beautiful Jekyll** is *literally* as easy as 1-2-3 :)    
@@ -29,6 +27,8 @@ Here is a 40-second video showing how to get started, with the specific steps be
 
 ---
 
+<div class= "gs-section-01-bg">
+     
 <div class="gs-section-01">
 
   <h3> 1. Fork the Beautiful Jekyll repository </h3>
@@ -37,6 +37,7 @@ Here is a 40-second video showing how to get started, with the specific steps be
   
   </div>
 
+</div>
 ---
 
 ### 2. Rename the repository to `yourusername.github.io`
@@ -45,15 +46,17 @@ This will create a GitHub User page ready with the **Beautiful Jekyll** template
 
 ---
 
+<div class= "gs-section-01-bg">
+
 ### 3. Customize settings
 
 Edit the `_config.yml` file to change all the settings to reflect your site.  The settings in the file are fairly self-explanatory and I added comments inside the file to help you further.  Every time you make a change to any file, your website will get rebuilt and should be updated at `yourusername.github.io` within a minute.
 
 You can now visit your shiny new website, which will be seeded with several sample blog posts and a couple other pages.
 
----
-
 </div>
+
+---
 
 See how easy that is? I wasn't lying - it really can be done in two minutes.
 
