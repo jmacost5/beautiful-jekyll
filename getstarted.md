@@ -9,9 +9,11 @@ bigimg: /img/start.jpg
 
 To learn how you can use **Beautiful Jekyll** to create your website in minutes, go to the [Beautiful Jekyll GitHub page](https://github.com/daattali/beautiful-jekyll#readme).
 
-<div class= "get-started-wrap">
-<a class="gs-button" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
-</div>
+<center> 
+     <div class= "get-started-wrap">
+     <a class="gs-button" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
+     </div>
+</center>
 
 <br>
 
@@ -27,9 +29,13 @@ Here is a 40-second video showing how to get started, with the specific steps be
 
 <div class="gs-section-01">
 
+<body>
+
 <h3> 1. Fork the Beautiful Jekyll repository </h3>
 
 <p> Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub. </p>
+
+</body>
 
 </div>
 
