@@ -17,7 +17,7 @@ To learn how you can use **Beautiful Jekyll** to create your website in minutes,
 
 ---
 
-<div class= "gs-section-01-bg" markdown="1">
+<div class= "gs-section-bg" markdown="1">
      
 <br>
 
@@ -48,15 +48,19 @@ Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking 
 </div>
 ---
 
-<div class= "gs-section-01-bg" markdown="1">
+<div class= "gs-section-bg" markdown="1">
 
 <br>
+
+<div class="gs-section-02" markdown="1">
 
 ### 2. Rename the repository to `yourusername.github.io`
 
 This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be available at http://yourusername.github.io (sometimes it takes a few minutes).
 
 <br>
+
+</div>
 
 </div>
 
@@ -83,8 +87,8 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 
 <style>
      
-.gs-section-01-bg {
-     background-color: #fff5d7;
+.gs-section-bg {
+     background-color: #fff9e6;
 }
 
 .gs-section-01 h3 { 
@@ -93,6 +97,14 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 .gs-section-01 p {
      font-size: 30px;
 }
+
+.gs-section-02 h3 {
+     font-family: cursive
+}
+ 
+.gs-section-02 p {
+     color: #ff5e6c
+ }
 
 .gs-button {
   background-color: #ff5e6c;
