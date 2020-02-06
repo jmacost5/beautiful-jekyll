@@ -10,13 +10,13 @@ subtitle: "Courtney Stowers | February 6, 2020"
 
 ### Github Repository Link:
 
-Here is the link to [my repository](https://github.com/castower/castower.github.io).
+Here is the link to [my repository](https://github.com/castower/castower.github.io): https://github.com/castower/castower.github.io
 
 ---
 
 ### Github Website Link:
 
-Here is the link to [my website](https://castower.github.io/).
+Here is the link to [my website](https://castower.github.io/): https://castower.github.io/
 
 ---
 
