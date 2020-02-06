@@ -15,7 +15,9 @@ To learn how you can use **Beautiful Jekyll** to create your website in minutes,
      </div>
 </center>
 
-<br>
+---
+
+<div class= "gs-section-01-bg">
 
 ## Overview of steps required
 
@@ -25,11 +27,9 @@ Here is a 40-second video showing how to get started, with the specific steps be
 
 <img src="../img/install-steps.gif" style="width:100%;" alt="Installation steps" />
 
-<br>
+---
 
 <div class="gs-section-01">
-     
-  <div class= "gs-section-01-bg">
 
   <h3> 1. Fork the Beautiful Jekyll repository </h3>
 
@@ -37,7 +37,7 @@ Here is a 40-second video showing how to get started, with the specific steps be
   
   </div>
 
-</div>
+---
 
 
 ### 2. Rename the repository to `yourusername.github.io`
@@ -52,6 +52,8 @@ You can now visit your shiny new website, which will be seeded with several samp
 
 ---
 
+</div>
+
 See how easy that is? I wasn't lying - it really can be done in two minutes.
 
 <center> <div class= "get-started-wrap">
@@ -62,7 +64,7 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 <style>
      
 .gs-section-01-bg {
-     background-color: #feb300;
+     background-color: #fff5d7;
 }
 
 .gs-section-01 h3 { 
