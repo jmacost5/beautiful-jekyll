@@ -96,7 +96,7 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 }
 
 .gs-section-01 h3 { 
-     color: #331132; 
+     color: #732670; 
 }
 
 .gs-section-01 p {
