@@ -68,11 +68,15 @@ This will create a GitHub User page ready with the **Beautiful Jekyll** template
  
 <br>
 
+<div class="gs-section-03" markdown="1">
+
 ### 3. Customize settings
 
 Edit the `_config.yml` file to change all the settings to reflect your site.  The settings in the file are fairly self-explanatory and I added comments inside the file to help you further.  Every time you make a change to any file, your website will get rebuilt and should be updated at `yourusername.github.io` within a minute.
 
 You can now visit your shiny new website, which will be seeded with several sample blog posts and a couple other pages.
+
+</div>
 
 <br>
 
@@ -104,6 +108,15 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
  
 .gs-section-02 p {
      color: #ff5e6c
+ }
+ 
+ .gs-section-03 h3 {
+     color: #ff5e6c
+     font-family: serif
+}
+ 
+.gs-section-03 p {
+     font-weight: bold
  }
 
 .gs-button {
