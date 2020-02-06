@@ -112,7 +112,6 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
  
  .gs-section-03 h3 {
      color: #ff5e6c
-     font-family: serif
 }
  
 .gs-section-03 p {
