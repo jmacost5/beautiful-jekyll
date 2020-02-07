@@ -23,9 +23,12 @@ Here is a 40-second video showing how to get started, with the specific steps be
 
 <img src="../img/install-steps.gif" style="width:100%;" alt="Installation steps" />
 
+<div class="gs-section-01">
+  
 ### 1. Fork the Beautiful Jekyll repository 
 
 Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
+</div>
 
 ### 2. Rename the repository to `yourusername.github.io`
 
