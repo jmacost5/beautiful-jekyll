@@ -3110,8 +3110,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: #fff;
-  background-color: #5cb85c;
-  border-color: #4cae4c;
+  background-color: #ff5e6c;
+  border-color: #ff4d5b;
 }
 .btn-success:hover,
 .btn-success:focus,
@@ -3120,8 +3120,8 @@ fieldset[disabled] .btn-primary.active {
 .btn-success.active,
 .open > .dropdown-toggle.btn-success {
   color: #fff;
-  background-color: #449d44;
-  border-color: #398439;
+  background-color: #ff5e6c;
+  border-color: #ff4d5b;
 }
 .btn-success:active,
 .btn-success.active,
@@ -3150,7 +3150,7 @@ fieldset[disabled] .btn-success.active {
   border-color: #4cae4c;
 }
 .btn-success .badge {
-  color: #5cb85c;
+    color: #ff5e6c;
   background-color: #fff;
 }
 .btn-info {
